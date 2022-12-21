@@ -1,4 +1,4 @@
-# Leo Jang
+# Minjeong Jang
 
 ✨ Frontend Developer
 
