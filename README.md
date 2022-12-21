@@ -1,7 +1,7 @@
 # Minjeong Jang
 
-✨ Frontend Developer
+✨ Software Developer
 
-💻 HTML, CSS, JavaScript, React, etc
+💻 Java, HTML, CSS, JavaScript, etc
 
 🔥 Music🎵, Food🍕 & Traveling🛫
